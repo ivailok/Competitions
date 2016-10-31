@@ -1,0 +1,9 @@
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\A\bin\Debug\A.exe.config
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\A\bin\Debug\A.exe
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\A\bin\Debug\A.pdb
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\A\obj\Debug\A.exe
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\A\obj\Debug\A.pdb
+C:\Users\ivakir\Source\Repos\Competitions\CF378\A\bin\Debug\A.exe.config
+C:\Users\ivakir\Source\Repos\Competitions\CF378\A\obj\Debug\A.exe
+C:\Users\ivakir\Source\Repos\Competitions\CF378\A\obj\Debug\A.pdb

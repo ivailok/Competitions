@@ -1,0 +1,5 @@
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\B\bin\Debug\B.exe.config
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\B\bin\Debug\B.exe
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\B\bin\Debug\B.pdb
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\B\obj\Debug\B.exe
+c:\users\ivakir\documents\visual studio 2015\Projects\CF378\B\obj\Debug\B.pdb
