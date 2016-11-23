@@ -1,0 +1,6 @@
+C:\Users\ivakir\Source\Repos\Competitions\CF381\A\bin\Debug\A.exe.config
+C:\Users\ivakir\Source\Repos\Competitions\CF381\A\bin\Debug\A.exe
+C:\Users\ivakir\Source\Repos\Competitions\CF381\A\bin\Debug\A.pdb
+C:\Users\ivakir\Source\Repos\Competitions\CF381\A\obj\Debug\A.csprojResolveAssemblyReference.cache
+C:\Users\ivakir\Source\Repos\Competitions\CF381\A\obj\Debug\A.exe
+C:\Users\ivakir\Source\Repos\Competitions\CF381\A\obj\Debug\A.pdb
