@@ -21,7 +21,7 @@ namespace A
                     return Math.Min(Math.Min(2L * A, B), 2L * C);
 
                 case 3:
-                    return Math.Min(Math.Min(A, 3L * C), 3L * B + C);
+                    return Math.Min(Math.Min(A, 3L * C), B + C);
 
                 default:
                     return 0;
