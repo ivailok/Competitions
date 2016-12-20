@@ -1,0 +1,5 @@
+C:\Users\ivakir\Source\Repos\Competitions\CF388\A\bin\Debug\A.exe.config
+C:\Users\ivakir\Source\Repos\Competitions\CF388\A\bin\Debug\A.exe
+C:\Users\ivakir\Source\Repos\Competitions\CF388\A\bin\Debug\A.pdb
+C:\Users\ivakir\Source\Repos\Competitions\CF388\A\obj\Debug\A.exe
+C:\Users\ivakir\Source\Repos\Competitions\CF388\A\obj\Debug\A.pdb
